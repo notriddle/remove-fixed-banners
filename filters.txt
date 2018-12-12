@@ -21,3 +21,5 @@ medium.com##.metabar:style(position: static !important)
 medium.com##.overlay
 medium.com##.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: auto !important)
 medium.com##.u-bottom0
+; hide the nav bar on toasttab.com
+www.toasttab.com##.navigation:style(position:absolute !important)
