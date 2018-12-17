@@ -14,7 +14,7 @@ youtube.com##ytd-comments
 ; hide the Edge promo on Microsoft pages
 microsoft.com###epb
 ; hide the dickbar on GitHub
-github.com##.js-sticky
+github.com##.js-sticky:not(.pr-toolbar)
 github.com##.gh-header-shadow
 ; hide the dickbar and popup on Medium
 medium.com##.metabar:style(position: static !important)
