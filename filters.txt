@@ -2,24 +2,24 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 2
-! Last modified: 12 December 2018
+! Last modified: 24 December 2018
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
-! Description: This filter removes nag boxes, dick bars, and comments sections with poor moderation.
+! Description: This filter removes nag boxes, persistent bars, and comments sections with poor moderation.
 !-------------------------------------------------------------------------------
 
 ; hide YouTube comments
 youtube.com##ytd-comments
 ; hide the Edge promo on Microsoft pages
 microsoft.com###epb
-; hide the dickbar on GitHub
+; hide the persistent bar on GitHub (except places where nothing else shows the info)
 github.com##.js-sticky:not(.pr-toolbar)
 github.com##.gh-header-shadow
-; hide the dickbar and popup on Medium
+; hide the persistent bar and popup on Medium
 medium.com##.metabar:style(position: static !important)
 medium.com##.overlay
 medium.com##.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: auto !important)
 medium.com##.u-bottom0
-; hide the nav bar on toasttab.com
+; hide the persistent bar on toasttab.com
 www.toasttab.com##.navigation:style(position:absolute !important)
