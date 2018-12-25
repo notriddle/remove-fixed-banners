@@ -1,8 +1,7 @@
 Removing auto-scrolling banners
 ===============================
 
-A set of [uBlock Origin](https://github.com/gorhill/uBlock/) filters to conserve vertical screen real estate.
-This filter removes nag boxes, persistent bars, and comments sections with poor moderation.
+A set of [uBlock Origin](https://github.com/gorhill/uBlock/) filters to conserve vertical screen real estate and remove nag boxes.
 
 ### Installation
 
