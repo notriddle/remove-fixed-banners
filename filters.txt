@@ -2,11 +2,11 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 2
-! Last modified: 24 December 2018
+! Last modified: 25 December 2018
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
-! Description: This filter removes nag boxes, persistent bars, and comments sections with poor moderation.
+! Description: This filter removes persistent bars and other nag boxes.
 !-------------------------------------------------------------------------------
 
 ; hide the Edge promo on Microsoft pages
