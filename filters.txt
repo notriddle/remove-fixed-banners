@@ -9,13 +9,8 @@
 ! Description: This filter removes nag boxes, persistent bars, and comments sections with poor moderation.
 !-------------------------------------------------------------------------------
 
-; hide YouTube comments
-youtube.com##ytd-comments
 ; hide the Edge promo on Microsoft pages
 microsoft.com###epb
-; hide the persistent bar on GitHub (except places where nothing else shows the info)
-github.com##.js-sticky:not(.pr-toolbar)
-github.com##.gh-header-shadow
 ; hide the persistent bar and popup on Medium
 medium.com##.metabar:style(position: static !important)
 medium.com##.overlay
