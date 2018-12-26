@@ -12,6 +12,11 @@ Add this URL to make it work:
 
     https://notriddle.com/remove-fixed-banners/filters.txt
 
+### The rules
+
+* This filter list does not include blanked blocks, only specific URLs and CSS rules on specific domains. Blanket rules slow down browsers too much.
+* This filter list only blocks pop-ups and vertical bars. Fixed sidebars will not be blocked.
+
 ### Development tips
 
 Medium uses cookies to decide whether to show you their pop-up box or not.
