@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 2
-! Last modified: 26 December 2018
+! Last modified: 4 January 2018
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
