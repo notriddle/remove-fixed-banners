@@ -23,3 +23,7 @@ dev.to##.top-bar:style(position:absolute !important)
 dev.to##.container .article-actions
 ; fix the top bar on Twitter
 twitter.com##.topbar:style(position:absolute !important)
+; remove redundant pull request info banners on GitHub
+github.com##.box-shadow.gh-header-shadow
+github.com##.pull .is-stuck
+github.com##.issue .is-stuck
