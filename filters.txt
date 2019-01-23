@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 21 January 2019
+! Last modified: 23 January 2019
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
@@ -32,3 +32,5 @@ github.com##.issue .is-stuck
 www.pinknews.co.uk###navBar:style(position:absolute !important)
 ; fix the head bar on YouTube
 youtube.com###masthead-container:style(position:absolute !important)
+; fix the site header on Ars Technica
+arstechnica.com##.site-header:style(position:static !important)
