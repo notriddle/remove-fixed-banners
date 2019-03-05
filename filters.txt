@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 23 January 2019
+! Last modified: 5 March 2019
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
@@ -23,7 +23,7 @@ dev.to##.top-bar:style(position:absolute !important)
 dev.to##.container .article-actions
 ; fix the top bar on Twitter
 twitter.com##.topbar:style(position:absolute !important)
-twitter.com##.SearchNavigation(position:absolute !important)
+twitter.com##.SearchNavigation:style(position:absolute !important)
 ; remove redundant pull request info banners on GitHub
 github.com##.box-shadow.gh-header-shadow
 github.com##.pull .is-stuck
