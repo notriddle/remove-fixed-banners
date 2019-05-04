@@ -36,3 +36,4 @@ youtube.com###masthead-container:style(position:absolute !important)
 arstechnica.com##.site-header:style(position:static !important)
 ; remove empty ad banner
 www.independent.ie##.is-prolonged.is-off.wrap
+www.independent.ie##.on.persistent.slim.w103 > .wrap
