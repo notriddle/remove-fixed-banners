@@ -12,7 +12,7 @@
 ; hide the Edge promo on Microsoft pages
 microsoft.com###epb
 ; fix the top bar, and hide the popup on Medium
-medium.com##.metabar:style(position: static !important)
+medium.com##.o:style(position: static !important)
 medium.com##.overlay
 medium.com##.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: auto !important)
 medium.com##.u-bottom0
