@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 23 July 2019
+! Last modified: 25 July 2019
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
@@ -14,6 +14,7 @@ microsoft.com###epb
 ; fix the top bar, and hide the popup on Medium
 medium.com##.o:style(position: static !important)
 medium.com##.overlay
+medium.com##.pd
 medium.com##.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: auto !important)
 medium.com##.u-bottom0
 ; fix the top bar on toasttab.com
