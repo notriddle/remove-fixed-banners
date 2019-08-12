@@ -17,7 +17,7 @@ medium.com##.overlay
 medium.com##.pd
 medium.com##.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: auto !important)
 medium.com##.u-bottom0
-medium.com##.m
+medium.com##.pu
 ; fix the top bar on toasttab.com
 www.toasttab.com##.navigation:style(position:absolute !important)
 ; fix the top bar, and hide the bottom bar, on DEV
