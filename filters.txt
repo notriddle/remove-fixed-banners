@@ -2,13 +2,15 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 8 August 2019
+! Last modified: 7 February 2020
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
 ! Description: This filter removes persistent bars and other nag boxes.
 !-------------------------------------------------------------------------------
 
+; fix the top bar on getpocket.com
+getpocket.com###explore-nav-container:style(position: static !important)
 ; hide the Edge promo on Microsoft pages
 microsoft.com###epb
 ; fix the top bar, and hide the popup on Medium
