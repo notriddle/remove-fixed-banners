@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 7 February 2020
+! Last modified: 13 March 2020
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
@@ -31,6 +31,7 @@ twitter.com##.r-gtdqiz:style(position:static!important)
 github.com##.box-shadow.gh-header-shadow
 github.com##.pull .is-stuck
 github.com##.issue .is-stuck
+github.com##.flash.js-notification-top-shelf.notification-shelf
 ; fix the nav bar on Pink News
 www.pinknews.co.uk###navBar:style(position:absolute !important)
 ; fix the head bar on YouTube
