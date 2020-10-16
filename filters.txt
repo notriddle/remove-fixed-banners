@@ -2,7 +2,7 @@
 ! Title: notriddle's Remove Fixed Banners
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 10 August 2020
+! Last modified: 16 October 2020
 ! Homepage: https://notriddle.com/remove-fixed-banners/
 ! Contribute: https://github.com/notriddle/remove-fixed-banners/
 ! License: https://mit-license.org/
@@ -36,7 +36,7 @@ github.com##.flash.js-notification-top-shelf.notification-shelf
 www.pinknews.co.uk###navBar:style(position:absolute !important)
 ; fix the head bar on YouTube
 youtube.com###masthead-container:style(position:absolute !important)
-youtube.comyoutube.com##ytd-feed-filter-chip-bar-renderer.ytd-rich-grid-renderer:style(position:absolute!important)
+youtube.com###chips-wrapper:style(position:absolute!important)
 ; fix the site header on Ars Technica
 arstechnica.com##.site-header:style(position:static !important)
 ; remove empty ad banner
